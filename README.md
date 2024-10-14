@@ -54,9 +54,8 @@ The code performs power transformations on grayscale images to enhance their con
 
 The following output shows the original city image alongside the transformed images with different gamma values:
 
-| Original Image | Gamma 3 | Gamma 4 | Gamma 5 |
-|----------------|---------|---------|---------|
-| ![Original City Image](![image](![image](![sehir_img]([https://github.com/user-attachments/assets/aaf8efc3-96e9-43ed-b0b2-4ab06fa0895a](https://github.com/user-attachments/assets/e2a0a3b3-1568-4021-aff4-a0beab2d5534))
+| Original Image |
+| ![Original City Image]([sehir_img]([https://github.com/user-attachments/assets/aaf8efc3-96e9-43ed-b0b2-4ab06fa0895a](https://github.com/user-attachments/assets/e2a0a3b3-1568-4021-aff4-a0beab2d5534))
 )
 )
 ) | ![Gamma 3](![sehir](https://github.com/user-attachments/assets/0ed29dc1-1126-4e7e-a8dd-f5abb483f2b9)|
